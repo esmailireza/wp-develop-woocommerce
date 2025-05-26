@@ -1,2 +1,2 @@
-<?php get_header()?>
-<?php get_footer()?>
+<?php get_header('shop')?>
+<?php get_footer('shop')?>
